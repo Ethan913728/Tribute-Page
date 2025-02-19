@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(203, 203, 0);
+    border: 10px solid red;
+   margin: 0; 
+}
+
+.header{
+    text-align: center;
+    color: red;
+
+}
+
+.main{
+    text-align: center;
+    font-size: 1rem;
+}
+img{
+    max-width: 45vw;
+    border-radius: 45%;
+}
+
+.sources{
+    text-align: start;
+    font-size: 10rem;
+}
